@@ -12,4 +12,11 @@ Yoie!!! Hello world..👋<br>My interests lie in building full-stack web applica
 ![](https://nirzak-streak-stats.vercel.app/?user=kapilsingh09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsingh09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🐍 Contribution Visualizations
+
+### Snake Animation
 ![Snake animation](https://github.com/kapilsingh09/kapilsingh09/blob/output/github-contribution-grid-snake.svg)
+
+### 3D Contribution Calendar
+![3D Contribution](https://github.com/kapilsingh09/kapilsingh09/blob/output/profile-3d-contrib/profile-green-animate.svg)
