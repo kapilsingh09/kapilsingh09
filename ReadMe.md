@@ -8,11 +8,11 @@ Yoie!!! Hello world..👋<br>My interests lie in building full-stack web applica
 
 
 # GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=kapilsingh09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kapilsingh09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsingh09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kapilsingh09)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilsingh09&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kapilsingh09&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilsingh09&theme=dark)
+<!-- 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kapilsingh09)](https://git.io/streak-stats) -->
 
 ## 🐍 Contribution Visualizations
 
