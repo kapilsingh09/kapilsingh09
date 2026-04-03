@@ -8,9 +8,9 @@ Yoie!!! Hello world..👋<br>My interests lie in building full-stack web applica
 
 
 # GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilsingh09&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilsingh09&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kapilsingh09&theme=dark&hide_border=false)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilsingh09&theme=dark)
 <!-- 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kapilsingh09)](https://git.io/streak-stats) -->
 
